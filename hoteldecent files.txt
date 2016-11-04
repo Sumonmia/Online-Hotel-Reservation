@@ -1,0 +1,8 @@
+$mysql_host = "mysql5.000webhost.com";
+$mysql_database = "a7707739_hotel";
+$mysql_user = "a7707739_sumon";
+$mysql_password = "decent11";
+
+
+Username / Email: admin@hoteldecent.comoj.com
+Password: decent11

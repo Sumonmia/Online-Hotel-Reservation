@@ -1,0 +1,201 @@
+body{
+background:#c0c0c0;
+
+}
+
+#category{
+
+height:1000px;
+ width:100%;
+  background:#008080;
+ border:1px solid #002654;
+ -moz-border-radius:20px;
+ -moz-box-shadow:2px 2px 5px #999;
+ -webkit-border-radius:20px;
+ -webkit-box-shadow:2px 2px 5px #999;
+
+}
+
+#category #roomdes{
+margin-top:8px;
+  height:150px;
+  width:91%;
+  margin-left:60px;
+  margin-right:60px;
+  background:#d1d1d1;
+  border:1px solid #002654;
+ -moz-border-radius:20px;
+ -moz-box-shadow:2px 2px 5px #999;
+ -webkit-border-radius:20px;
+ -webkit-box-shadow:2px 2px 5px #999;
+
+}
+
+#category #room{
+ margin-top:8px;
+  float:left;
+  height:800px;
+  width:45%;
+  margin-left:60px;
+  background:#31698a;
+  border:1px solid #002654;
+ -moz-border-radius:20px;
+ -moz-box-shadow:2px 2px 5px #999;
+ -webkit-border-radius:20px;
+ -webkit-box-shadow:2px 2px 5px #999;
+
+}
+
+#category #room #cate{
+  margin-top:10px;
+  height:170px;
+  width:98%;
+  background:#31698a;
+  border:1px solid #002654;
+ -moz-border-radius:20px;
+ -moz-box-shadow:2px 2px 5px #999;
+ -webkit-border-radius:20px;
+ -webkit-box-shadow:2px 2px 5px #999;
+}
+
+
+#category #room #cate .catedes {
+ margin-top:5px;
+ margin-left:5px;
+ float:left;
+ width:48%;
+ height:160px;
+ -moz-border-radius:20px;
+ -webkit-border-radius:20px;
+}
+
+#category #room #cate .catedes a{
+ font-size:25px;
+ text-decoration:none;
+ color:#800000;
+}
+
+#category #room #cate .catedes a:link:hover{
+
+text-decoration :none;
+font-size:30px
+}
+
+#category #room #cate .cateimg{
+ margin-top:5px;
+ margin-left:5px;
+ float:right;
+ width:48%;
+ height:160px;
+ -moz-border-radius:20px;
+ -webkit-border-radius:20px;
+}
+
+
+
+#category #party{
+ margin-top:8px;
+  float:right;
+  height:800px;
+  width:45%;
+  margin-right:60px;
+  background:#31698a;
+  border:1px solid #002654;
+ -moz-border-radius:20px;
+ -moz-box-shadow:2px 2px 5px #458b74;
+ -webkit-border-radius:20px;
+ -webkit-box-shadow:2px 2px 5px #458b74;
+
+}
+
+#category #party #bday{
+
+ margin-top:10px;
+ height:200px;
+  width:98%;
+  background:#31698a;
+  border:1px solid #002654;
+ -moz-border-radius:20px;
+ -moz-box-shadow:2px 2px 5px #999;
+ -webkit-border-radius:20px;
+ -webkit-box-shadow:2px 2px 5px #999;
+
+}
+
+#category #party #bday #bdaylink {
+margin-top:2px;
+}
+
+#category #party #bday #bdaylink a{
+ font-size:25px;
+ text-decoration:none;
+ color:#800000;
+}
+
+#category #party #bday #bdaylink a:link:hover{
+ font-size:30px;
+ text-decoration:none;
+}
+
+#category #party #bday #bdayimg {
+margin-left:2px;
+display:inline;
+}
+
+#category #party #weed{
+
+  margin-top:10px;
+  height:200px;
+  width:98%;
+  background:#31698a;
+  border:1px solid #002654;
+ -moz-border-radius:20px;
+ -moz-box-shadow:2px 2px 5px #999;
+ -webkit-border-radius:20px;
+ -webkit-box-shadow:2px 2px 5px #999;
+
+}
+
+#category #party #weed #weedlink {
+margin-top:2px;
+}
+
+#category #party #weed #weedlink a{
+ font-size:25px;
+ text-decoration:none;
+ color:#800000;
+}
+
+#category #party #weed #weedlink a:link:hover{
+ font-size:30px;
+ text-decoration:none;
+}
+
+#category #party #seminar{
+
+  margin-top:10px;
+  height:200px;
+  width:98%;
+  background:#31698a;
+  border:1px solid #002654;
+ -moz-border-radius:20px;
+ -moz-box-shadow:2px 2px 5px #999;
+ -webkit-border-radius:20px;
+ -webkit-box-shadow:2px 2px 5px #999;
+
+}
+
+#category #party #seminar #semlink {
+margin-top:2px;
+}
+
+#category #party #seminar #semlink a{
+ font-size:25px;
+ text-decoration:none;
+ color:#800000;
+}
+
+#category #party #seminar #semlink a:link:hover{
+ font-size:30px;
+ text-decoration:none;
+}

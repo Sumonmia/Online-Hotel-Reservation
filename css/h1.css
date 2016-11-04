@@ -1,0 +1,163 @@
+ body{
+ background:#c0c0c0;
+ }
+ 
+ #welcome{
+ font-size:26px;
+ font-weight:bold;
+ font-family:cursive;
+ background:#a3a3a3;
+ color:#008000;
+ border:1px solid #F1F1F1;
+ -moz-border-radius:20px;
+ -moz-box-shadow:2px 2px 5px #999;
+ -webkit-border-radius:20px;
+ -webkit-box-shadow:2px 2px 5px #999;
+ }
+ 
+ #hoteladmin{
+     height:35px;
+	 font-weight:bold;
+     font-family:cursive;
+     background:#a3a3a3;
+     color:#008000;
+	 border:1px solid #F1F1F1;
+     -moz-border-radius:20px;
+     -moz-box-shadow:2px 2px 5px #999;
+     -webkit-border-radius:20px;
+     -webkit-box-shadow:2px 2px 5px #999;
+ }
+ 
+ #hoteladmin a:link{
+ font-size:25px;
+ text-decoration:none;
+  float:right;
+  margin-right:50px;
+ 
+ }
+ 
+ #im .mainim{
+ height:280px;
+ width:100%;
+ border:1px solid #F1F1F1;
+ -moz-border-radius:20px;
+ -moz-box-shadow:2px 2px 5px #999;
+ -webkit-border-radius:20px;
+ -webkit-box-shadow:2px 2px 5px #999;
+ }
+ 
+ 
+ #menu{
+ height:35px;
+  background:#E9E9E9;
+ border:1px solid #F1F1F1;
+ -moz-border-radius:20px;
+ -moz-box-shadow:2px 2px 5px #999;
+ -webkit-border-radius:20px;
+ -webkit-box-shadow:2px 2px 5px #999;
+ overflow:auto;
+ margin-bottom:20px;
+ }
+ 
+ #menu a:link{
+ font-size:25px;
+ text-decoration:none;
+ background:#E9E9E9;
+ border:1px solid #F1F1F1;
+ -moz-border-radius:20px;
+ -moz-box-shadow:2px 2px 5px #999;
+ -webkit-border-radius:20px;
+ -webkit-box-shadow:2px 2px 5px #999;
+
+ }
+ #menu a:visited {
+color : #333399;
+text-decoration : none;
+}
+
+#menu a:link:hover {
+background-color :gray;
+text-decoration :none;
+font-size:30px;
+}
+ 
+ 
+  #feed{
+  height:700px;
+  width:100%;
+   background:#cbbeb5;
+ border:1px solid #F1F1F1;
+ -moz-border-radius:20px;
+ -moz-box-shadow:2px 2px 5px #999;
+ -webkit-border-radius:20px;
+ -webkit-box-shadow:2px 2px 5px #999;
+  
+  }
+  
+  #feed .description{
+  margin-top:8px;
+  height:600px;
+  width:95%;
+  margin-left:30px;
+  background:#FFF;
+  border:1px solid #F1F1F1;
+ -moz-border-radius:20px;
+ -moz-box-shadow:2px 2px 5px #999;
+ -webkit-border-radius:20px;
+ -webkit-box-shadow:2px 2px 5px #999;
+  
+ 
+  }
+  
+  #feed .description h1{
+  color:#008080;
+  
+  }
+  
+  
+
+  p{
+  margin-top:20px;
+  font-size:20px;
+  color:#004444;
+  }
+  
+  #foot{
+  margin-top:8px;
+  height:250px;
+  width:100%;
+  overflow:auto;
+  background:#b5cbbb;
+  -moz-box-shadow:2px 2px 5px #999;
+  -webkit-box-shadow:2px 2px 5px #999;
+  }
+  
+  
+  #foot .mlinks a{
+  font-size:25px;
+ text-decoration:none;
+ background:#E9E9E9;
+ height:35px;
+ border:1px solid #F1F1F1;
+ -moz-border-radius:20px;
+ -moz-box-shadow:2px 2px 5px #999;
+ -webkit-border-radius:20px;
+ -webkit-box-shadow:2px 2px 5px #999;
+  }
+  
+  #foot .mlinks a:visited{
+  color : #333399;
+  text-decoration : none;
+  }
+  
+  #foot .mlinks a:link:hover{
+  background-color :gray;
+  text-decoration :none;
+  font-size:30px;
+  }
+  
+  #foot .social{
+  margin-top:20px;
+  
+  }
+  
